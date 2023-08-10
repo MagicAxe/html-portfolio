@@ -1,2 +1,2 @@
 # html-portfolio
-HTML projects by Akshay Padwal
+HTML Resume of Akshay Padwal
